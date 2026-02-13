@@ -1,7 +1,3 @@
-Here is the project description formatted in Markdown.
-
-***
-
 # Customer Churn Prediction
 
 ## Project Overview
